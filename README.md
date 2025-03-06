@@ -5,7 +5,7 @@
 
 ### &nbsp; Привет! Я Анастасия, начинающий аналитик данных :smile:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Здесь можно найти [порфтолио](https://github.com/steishas/portfolio) моих работ.
+&nbsp;&nbsp;&nbsp;&nbsp;[Здесь](https://github.com/steishas/portfolio) можно найти порфтолио моих работ.
 
 <p align="center"> Связаться со мной :arrow_down:</p>
 
