@@ -15,4 +15,16 @@
   <a href="https://t.me/steishas"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<details>
+  <summary><b>:computer: Работаю с</b></summary>
+  <br/>
 
+![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;
+![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=numpy)&nbsp;
+![pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)&nbsp;
+![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)&nbsp;
+![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)&nbsp; \
+![jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)&nbsp;
+![pycharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)&nbsp; \
+![postgresql](https://go-skill-icons.vercel.app/api/icons?i=postgresql)&nbsp; \
+![excel](https://go-skill-icons.vercel.app/api/icons?i=excel)&nbsp;
