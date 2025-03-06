@@ -5,13 +5,13 @@
 
 ### &nbsp; Привет! Я Анастасия, аналитик данных из Санкт-Петербурга :smile:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Увлекаюсь анализом данных и визуализаацией данных \
+&nbsp;&nbsp;&nbsp;&nbsp;Увлекаюсь анализом и визуализаацией данных \
 &nbsp;&nbsp;&nbsp;&nbsp;Здесь можно найти порфтолио моих работ
 
 <p align="center"> Связаться со мной :arrow_down:</p>
 
 <p align="center">
-  <a href="mailto:steishasobchuk@gmail.com?"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:steishasobchuk@gmail.com"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/steishas.s/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/steishas"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
