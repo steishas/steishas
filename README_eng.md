@@ -5,7 +5,6 @@
 
 ### &nbsp; Hi, there! My name is Anastasia. I am Junior Data Analyst :smile:
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm into data analysis and vizualization. \
 &nbsp;&nbsp;&nbsp;&nbsp;Here you can find my portfolio
 
 <p align="center"> Reach out to me :arrow_down:</p>
