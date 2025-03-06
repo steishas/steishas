@@ -3,7 +3,7 @@
  <tr><td><a href="README_eng.md"><img src="images/Flag_of_the_United_States.png" height="10"> English</a></td></tr>
 </table>
 
-### &nbsp; Привет! Я Анастасия, аналитик данных из Санкт-Петербурга :smile:
+### &nbsp; Привет! Я Анастасия, начинающий аналитик данных:smile:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Увлекаюсь анализом и визуализацией данных. \
 &nbsp;&nbsp;&nbsp;&nbsp;Здесь можно найти порфтолио моих работ.
