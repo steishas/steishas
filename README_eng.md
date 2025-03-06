@@ -5,7 +5,7 @@
 
 ### &nbsp; Hi, there! My name is Anastasia. I am Junior Data Analyst :smile:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Here you can find my portfolio
+&nbsp;&nbsp;&nbsp;&nbsp;Here you can find my [portfolio](https://github.com/steishas/portfolio)
 
 <p align="center"> Reach out to me :arrow_down:</p>
 
