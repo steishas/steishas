@@ -29,6 +29,7 @@
 ![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)&nbsp;
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)&nbsp; \
 ![jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)&nbsp;
-![pycharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)&nbsp; \
+![pycharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)&nbsp;
+![googlecolab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab)&nbsp;\
 ![postgresql](https://go-skill-icons.vercel.app/api/icons?i=postgresql)&nbsp; \
 ![excel](https://go-skill-icons.vercel.app/api/icons?i=excel)&nbsp;
