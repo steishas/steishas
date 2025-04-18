@@ -23,8 +23,9 @@
   <br/>
 
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;
-![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=numpy)&nbsp;
 ![pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)&nbsp;
+![scipy](https://go-skill-icons.vercel.app/api/icons?i=scipy)&nbsp;
+![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=numpy)&nbsp;
 ![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)&nbsp;
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)&nbsp; \
 ![jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)&nbsp;
