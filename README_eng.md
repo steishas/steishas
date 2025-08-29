@@ -10,7 +10,7 @@
 <p align="center"> Reach out to me :arrow_down:</p>
 
 <p align="center">
-  <a href="https://t.me/steishas"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/anastasia_maksimovna_smirnova"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <details>
