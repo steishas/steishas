@@ -3,7 +3,10 @@
  <tr><td><a href="README_eng.md"><img src="images/Flag_of_the_United_States.png" height="10"> English</a></td></tr>
 </table>
 
-### &nbsp; Hi, there! My name is Anastasia. I am Junior Data Analyst :smile:
+### &nbsp; Hi, there! My name is Anastasia. I am a Junior Data Analyst from Saint Petersburg, Russia :smile:
+
+📚: Studying Data Science in MIPT \
+💻: Currently working as a Financial Analyst in [OCS Distribution](https://www.ocs.ru/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Here](https://github.com/steishas/portfolio) you can find my portfolio
 
