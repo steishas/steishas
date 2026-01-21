@@ -17,7 +17,7 @@
 </p>
 
 <details>
-  <summary><b>:computer: Working with</b></summary>
+  <summary><b>:computer: My stack</b></summary>
   <br/>
 
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;
