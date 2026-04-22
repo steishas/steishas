@@ -21,15 +21,20 @@
   <summary><b>:computer: Работаю с</b></summary>
   <br/>
 
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)&nbsp;
+![ApacheAirflow](https://go-skill-icons.vercel.app/api/icons?i=airflow)&nbsp;\
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;
 ![pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)&nbsp;
 ![scipy](https://go-skill-icons.vercel.app/api/icons?i=scipy)&nbsp;
 ![scikitlearn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)&nbsp;
+![pytorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch)&nbsp;
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=numpy)&nbsp;
 ![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)&nbsp;
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)&nbsp; \
 ![jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)&nbsp;
 ![pycharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)&nbsp;
 ![googlecolab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab)&nbsp;\
-![postgresql](https://go-skill-icons.vercel.app/api/icons?i=postgresql)&nbsp; \
+![postgresql](https://go-skill-icons.vercel.app/api/icons?i=postgresql)&nbsp;
+![mysql](https://go-skill-icons.vercel.app/api/icons?i=mysql)&nbsp;
+![mongodb](https://go-skill-icons.vercel.app/api/icons?i=mongodb)&nbsp;\
 ![excel](https://go-skill-icons.vercel.app/api/icons?i=excel)&nbsp;
