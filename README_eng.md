@@ -22,7 +22,8 @@
 
 ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)&nbsp;
 ![ApacheAirflow](https://go-skill-icons.vercel.app/api/icons?i=airflow)&nbsp;\
-![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;
+![Java](https://go-skill-icons.vercel.app/api/icons?i=java)&nbsp;
+![Python](https://go-skill-icons.vercel.app/api/icons?i=python)&nbsp;\
 ![pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)&nbsp;
 ![scipy](https://go-skill-icons.vercel.app/api/icons?i=scipy)&nbsp;
 ![scikitlearn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)&nbsp;
@@ -30,6 +31,7 @@
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=numpy)&nbsp;
 ![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)&nbsp;
 ![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)&nbsp; \
+![vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode)&nbsp;
 ![jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)&nbsp;
 ![pycharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)&nbsp;
 ![googlecolab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab)&nbsp;\
